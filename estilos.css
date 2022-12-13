@@ -55,3 +55,7 @@ button:active{
     border-radius: 10px;
     font-weight: 2rem;
 }
+
+.operador{
+    background-color: #d5f3ff;
+}
